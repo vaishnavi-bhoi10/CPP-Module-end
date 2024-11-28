@@ -40,7 +40,7 @@ main()
 	t1.show();
 	t2.get(69,"Vaibhav");
 	t2.show();
-	t3.get(70,"Mahavir");
+	t3.get(70,"MahaVeer");
 	t3.show();
 	Student::show_value(); 
 
